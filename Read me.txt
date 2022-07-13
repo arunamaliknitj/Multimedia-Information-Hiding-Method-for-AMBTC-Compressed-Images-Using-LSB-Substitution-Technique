@@ -1,0 +1,7 @@
+Execution steps are given as follwos:
+
+1) Matlab is required for execution the code
+2) First set the path for a particilar image (some sample images are given with the code)
+3) Then, you will get the PSNR and Capacity for a particular image.
+4) Choose the next image and set path
+5) Follow the same process....
